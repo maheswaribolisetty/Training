@@ -7,7 +7,3 @@ git clone https://git-codecommit.us-east-2.amazonaws.com/v1/repos/CanteenManagem
 
 BolisettyM-hexaware-at-991491925675
 1Ds8OvaPIcjJ3EocU54i8EBLgiUfzVIQP3+ulDvUqpQ=
-git clone https://git-codecommit.us-east-2.amazonaws.com/v1/repos/CanteenManagementSystem
-
-BolisettyM-hexaware-at-991491925675
-1Ds8OvaPIcjJ3EocU54i8EBLgiUfzVIQP3+ulDvUqpQ=

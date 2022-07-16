@@ -1,0 +1,4 @@
+ whaat is data base?
+collection of relaated information is called database.
+we need to manage that data using software that was managed by
+using the database management system(DBMS)
